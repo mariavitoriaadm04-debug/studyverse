@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { ArrowRight, BookOpen, Compass, GraduationCap, Search, Sparkles, Users, X, Clock3 } from 'lucide-react'
+import { ArrowRight, BookOpen, Compass, GraduationCap, Search, Sparkles, Users, X } from 'lucide-react'
 import ExperienceCard from './components/ExperienceCard'
 import ExperienceModal from './components/ExperienceModal'
 import WorldCard from './components/WorldCard'
